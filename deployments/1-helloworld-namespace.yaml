@@ -16,4 +16,4 @@ apiVersion: v1
 metadata:
   name: 6610051yn3-se-l3
   labels:
-    deploy.razee.io/mode: "EnsureExists
+    deploy.razee.io/mode: "EnsureExists"
